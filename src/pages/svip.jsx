@@ -191,7 +191,7 @@ const SVIPPage = () => {
                     ))}
                 </div>
                     </div>
-     </div>
+         </div>
       </div>
     </div>
   );
