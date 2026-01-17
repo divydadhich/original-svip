@@ -148,8 +148,7 @@ const SVIPPage = () => {
                     </PremiumCard>
                 </div>
             </div>
-
-            {/* BOTTOM SECTION */}
+   {/* BOTTOM SECTION */}
             {/* Changed mt-3 to mt-8 to prevent overlap with top row diamonds */}
             <div className="grid grid-cols-2 gap-4 mt-8 h-36">
                 <PremiumCard label="Headwear">
